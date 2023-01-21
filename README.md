@@ -57,4 +57,4 @@ _Для выполнения этого задания **не нужно** ис�
 В качестве результата пришлите проверяющему ссылку на ваш Pull Request.
 
 **Результат выполнения задачи:**  
-- [ссылка на Pull Request](https://github.com/netology-code/git-homeworks-neuro-pr/pulls?page=27&q=is%3Apr+is%3Aopen)
+[ссылка на Pull Request](https://github.com/netology-code/git-homeworks-neuro-pr/pulls?page=27&q=is%3Apr+is%3Aopen)
